@@ -1,4 +1,4 @@
-Ecom App UI in Flutter
+## Ecom App UI in Flutter
 
 A simple Flutter assignment that demonstrates an E-commerce product listing UI with category chips and a product detail screen.
 
@@ -35,8 +35,9 @@ flutter run
 Output:
 
 ## Screenshot
-![Product Page](lib/screenshots/detailpage.png)
-![Product Detail Page](lib/screenshots/flutter_assignment02.png)
+<img src="lib/screenshots/detailpage.png" alt="Product Page" width="300"/> 
+<img src="lib/screenshots/flutter_assignment02.png" alt="Product Detail Page" width="300"/>
+
 
 
 ## Note:
