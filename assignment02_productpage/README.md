@@ -38,7 +38,7 @@ Output:
 ## Screenshot
 <p float="left">
   <img src="lib/screenshots/flutter_assignment02.png" width="200" />
-  <img src="lib/screenshots/detailpage.png" width="200" />
+  <img src="lib/screenshots/detailpage.png" width="100" />
 </p>
 
 
