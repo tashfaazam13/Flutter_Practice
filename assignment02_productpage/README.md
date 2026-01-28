@@ -35,9 +35,11 @@ flutter run
 Output:
 
 ## Screenshot
-<img src="lib/screenshots/detailpage.png" alt="Product Page" width="300"/> 
-<img src="lib/screenshots/flutter_assignment02.png" alt="Product Detail Page" width="300"/>
-
+## Screenshot
+<p float="left">
+  <img src="lib/screenshots/flutter_assignment02.png" width="300" />
+  <img src="lib/screenshots/detailpage.png" width="300" />
+</p>
 
 
 ## Note:
